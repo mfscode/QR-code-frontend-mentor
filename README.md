@@ -58,4 +58,4 @@ Gotta dig down the flexbox and shadow hole, not really feeling like using shadow
 
 - Frontend Mentor - [@mfs_code](https://www.frontendmentor.io/profile/mfscode)
 - Twitter - [@mfskb3](https://twitter.com/mfskb3)
-- Instagram = [@mfs_arc](https://www.instagram.com/mfs_arc/)
+- Instagram - [@mfs_arc](https://www.instagram.com/mfs_arc/)
