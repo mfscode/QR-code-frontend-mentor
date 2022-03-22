@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+html {
+    background-image: url(https://cdn.discordapp.com/attachments/949852781622222851/955681430216798228/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit';
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.layer {
+    display: inherit;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(219, 50%, 92%, 1);
+    width: 90%;
+    height: 80%;
+    box-shadow: 10px 10px 20px rgb(0, 0, 0, .06);
+}
+
+.container {
+    background-color: hsl(0, 0%, 95%);
+    display: inherit;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 270px;
+    text-align: center;
+    padding: 1em;
+    border-radius: 5%;
+    position: relative;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0, .06);
+}
+
+img {
+    max-width: 90%;
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    border-radius: 2.5%;
+}
+
+.text {
+    position: absolute;
+    bottom: 6%;
+    width: 85%;
+}
+
+p {
+    font-weight: 400;
+}
+
+p.title {
+    margin: 0 0 6%;
+    font-weight: 700;
+}
