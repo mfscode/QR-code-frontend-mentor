@@ -54,7 +54,8 @@ p {
     font-weight: 400;
 }
 
-p.title {
+h1 {
     margin: 0 0 6%;
     font-weight: 700;
+    font-size: 16px;
 }
